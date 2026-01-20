@@ -3,7 +3,7 @@
 
 ## 🕐 Smart Internet-Synchronized Digital Clock with Web Configuration
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![ESP32](https://img.shields.io/badge/ESP32-Compatible-green)](https://www.espressif.com)
 [![WiFi](https://img.shields.io/badge/WiFi-Enabled-blue)](https://www.wi-fi.org)
 [![NTP](https://img.shields.io/badge/NTP-Time%20Sync-orange)](https://www.ntp.org)
